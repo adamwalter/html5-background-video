@@ -1,4 +1,3 @@
-html5-video-background
-======================
+# HTML5 Video Background
 
 Easy CSS-only background videos.
