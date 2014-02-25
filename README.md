@@ -1,6 +1,6 @@
 # HTML5 Video Background
 
-Easy CSS-only background videos.
+Easy CSS-only background video.
 
 * **Browser support:** Modern browsers, IE9+
 * For IE8 support, use [HTML5 Shiv](https://code.google.com/p/html5shiv/) and `video { display: block; }`. It won't support video, but will allow the background image to be visible
