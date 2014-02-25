@@ -1,4 +1,4 @@
-# HTML5 Video Background
+# HTML5 Background Video
 
 Easy CSS-only background video supported in all modern browsers and IE9+.
 
