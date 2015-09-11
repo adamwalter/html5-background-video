@@ -40,6 +40,23 @@
         background: url('assets/cassini.jpg') no-repeat;
         background-size: cover;
     }
+    /* Add .bg-video-wrap-cover class to this element
+       to achieve a background-size:cover effect */
+    .bg-video-wrap.bg-video-wrap-cover {
+        right: 0;
+        width: auto;
+    }
+    .bg-video-wrap-cover.bg-video {
+        top: 50%;
+        left: 50%;
+        -webkit-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+        min-width: 100%;
+        min-height: 100%;
+        width: auto;
+        height: auto;
+    }
     .content {
         max-width: 800px;
         margin: 50px auto;
